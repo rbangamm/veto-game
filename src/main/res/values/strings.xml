@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Veto</string>
+
+    <string name="single_player_text">SINGLE PLAYER</string>
+
+    <string name="title_activity_game">Veto</string>
+    <string name="help">Help</string>
+    <string name="message">Welcome to Veto!\nIt\'s the Blocker\'s turn.</string>
+    <string name="player2Turn">Forcer\'s turn.</string>
+    <string name="player1Turn">Blocker\'s turn.</string>
+    <string name="resetMessage">Reset</string>
+    <string name="title_activity_help_screen">Help</string>
+    <string name="large_text_part1">
+        Hello there! Welcome to Veto. This game involves two players: a Forcer and a Blocker.
+    The Forcer uses the \'X\' pieces and the Blocker uses the \'O\' pieces.\n
+    The win conditions are different for each player and they are as follows:\n\n
+    Forcer: Wins if a four in a row is achieved; either with his opponent\'s pieces or his own.
+    </string>
+    <string name="large_text_part2">
+        \nBlocker: Wins when the 5 x 5 board is completely filled without any four-in-a-rows.
+        The blocker always goes first.\n
+    </string>
+    <string name="large_text_part3">
+        \nSeems easy at first, except the blocker has a secret weapon… the Veto!\n\n
+    The Veto is represented by the \'V\' piece and it is a move in which the Blocker can place a piece
+    that is neither their opponent\'s nor their own on the game board. To use the Veto, the
+    Blocker must simply hold the tile on which they would like to place it.
+    Keep in mind that only ONE Veto can be used per game.\n\n
+    This sums up all the rules, but mastery comes with experience, so make sure to play lots with your friends!
+    </string>
+    <string name="action_settings">Settings</string>
+    <string name="two_player_text">TWO PLAYER</string>
+    <string name="single_player_message">Player vs. AI</string>
+    <string name="how_to_play">How to play</string>
+    <string name="blockerwin">Example of blocker win.</string>
+</resources>
