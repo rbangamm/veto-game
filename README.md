@@ -2,4 +2,4 @@
 
 Android game similar to Tic-Tac-Toe with more strategy and a twist
 *******************************************************************
-Currently working on AI in single-player mode; multiplayer mode works fine
+Currently working on AI in single-player mode
