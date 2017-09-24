@@ -13,6 +13,6 @@ This game can either be played against the AI or against a human player locally 
 ## Work in Progress
 *****************************************************************
 Veto is currently under development and the following aspects of the game are being worked on at the moment:
--Increasing AI difficulty
--Graphic design
--Creating a settings bar with statistics
+*Increasing AI difficulty
+*Graphic design
+*Creating a settings bar with statistics
